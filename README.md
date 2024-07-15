@@ -5,3 +5,15 @@ Welcome to the Arsh Goyal DSA Challenge repository! This 45 to 60 day journey is
 
 # Challenge Overview
 Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem-solving skills and technical interview preparation Wish luck for my journey 🎉
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
