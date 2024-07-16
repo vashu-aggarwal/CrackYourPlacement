@@ -17,12 +17,14 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0073-set-matrix-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
