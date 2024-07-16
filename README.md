@@ -11,6 +11,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
@@ -19,6 +20,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 ## Hash Table
@@ -32,6 +34,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
