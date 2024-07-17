@@ -12,6 +12,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -30,6 +31,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -62,6 +64,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
