@@ -26,6 +26,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -55,6 +56,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0054-spiral-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Counting
 |  |
 | ------- |
