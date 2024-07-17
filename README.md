@@ -23,6 +23,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -39,6 +40,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | ------- |
 | [0001-two-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
