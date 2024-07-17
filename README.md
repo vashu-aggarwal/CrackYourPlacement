@@ -15,6 +15,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0015-3sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
@@ -42,6 +43,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
@@ -101,4 +103,8 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
