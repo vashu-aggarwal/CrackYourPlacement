@@ -19,6 +19,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0054-spiral-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | ------- |
 | [0054-spiral-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +122,12 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
