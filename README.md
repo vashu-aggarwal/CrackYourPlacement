@@ -16,6 +16,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0015-3sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0047-permutations-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
@@ -137,6 +138,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
 ## Queue
 |  |
