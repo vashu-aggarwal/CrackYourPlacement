@@ -83,6 +83,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
@@ -136,6 +137,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
 ## Backtracking
 |  |
