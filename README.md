@@ -31,6 +31,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0130-surrounded-regions](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -122,6 +123,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
