@@ -171,6 +171,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0022-generate-parentheses](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
