@@ -253,6 +253,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0092-reverse-linked-list-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
