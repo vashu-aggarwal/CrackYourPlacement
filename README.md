@@ -63,6 +63,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0012-integer-to-roman](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -119,6 +120,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Prefix Sum
@@ -174,6 +176,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0049-group-anagrams](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
