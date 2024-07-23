@@ -210,6 +210,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0067-add-binary) |
@@ -258,11 +259,13 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0092-reverse-linked-list-ii) |
