@@ -116,6 +116,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0084-largest-rectangle-in-histogram](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0227-basic-calculator-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0445-add-two-numbers-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -218,6 +219,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0227-basic-calculator-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0445-add-two-numbers-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -271,6 +273,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0092-reverse-linked-list-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
+| [0445-add-two-numbers-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
