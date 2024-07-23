@@ -263,12 +263,14 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0086-partition-list) |
