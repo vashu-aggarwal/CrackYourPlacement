@@ -58,6 +58,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0088-merge-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
@@ -97,6 +98,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0018-4sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -151,6 +153,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -164,6 +167,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -291,6 +295,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0092-reverse-linked-list-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
