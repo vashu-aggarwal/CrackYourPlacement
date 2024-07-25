@@ -56,6 +56,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0086-partition-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
@@ -120,6 +121,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0020-valid-parentheses](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
@@ -270,6 +272,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | ------- |
 | [0002-add-two-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
@@ -284,6 +287,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0086-partition-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
