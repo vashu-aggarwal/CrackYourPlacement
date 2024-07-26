@@ -132,6 +132,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0234-palindrome-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0874-backspace-string-compare](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0273-integer-to-english-words](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0680-valid-palindrome-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Backtracking
 |  |
 | ------- |
