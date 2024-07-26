@@ -64,6 +64,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0234-palindrome-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0232-implement-queue-using-stacks](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
+| [0874-backspace-string-compare](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0067-add-binary](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0874-backspace-string-compare](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Counting
 |  |
 | ------- |
@@ -208,6 +211,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0227-basic-calculator-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0680-valid-palindrome-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Backtracking
 |  |
 | ------- |
