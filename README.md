@@ -119,6 +119,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0115-distinct-subsequences](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
@@ -307,6 +308,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
