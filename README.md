@@ -113,6 +113,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | ------- |
 | [0022-generate-parentheses](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -253,6 +254,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0012-integer-to-roman](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
@@ -351,4 +353,8 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
