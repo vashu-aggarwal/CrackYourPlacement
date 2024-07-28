@@ -123,6 +123,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0152-maximum-product-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0972-knight-dialer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0972-knight-dialer) |
 ## Greedy
 |  |
 | ------- |
