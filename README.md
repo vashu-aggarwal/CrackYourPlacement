@@ -33,6 +33,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0130-surrounded-regions](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
@@ -105,6 +106,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -134,6 +136,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0338-counting-bits) |
