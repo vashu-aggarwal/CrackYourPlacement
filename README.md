@@ -135,6 +135,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0064-minimum-path-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -253,6 +254,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0068-text-justification](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
