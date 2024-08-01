@@ -50,6 +50,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0628-maximum-product-of-three-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -95,6 +96,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0442-find-all-duplicates-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0740-delete-and-earn](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
@@ -142,6 +144,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0338-counting-bits](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0972-knight-dialer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0972-knight-dialer) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Greedy
