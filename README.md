@@ -41,6 +41,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0283-move-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0322-coin-change) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0403-frog-jump) |
@@ -147,6 +148,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0174-dungeon-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0221-maximal-square) |
+| [0312-burst-balloons](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0403-frog-jump) |
