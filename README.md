@@ -153,6 +153,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0416-partition-equal-subset-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0730-count-different-palindromic-subsequences](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0972-knight-dialer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0972-knight-dialer) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -270,6 +271,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0273-integer-to-english-words](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0474-ones-and-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0730-count-different-palindromic-subsequences](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
 | [0874-backspace-string-compare](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
