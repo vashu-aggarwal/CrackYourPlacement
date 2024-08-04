@@ -57,6 +57,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0739-daily-temperatures](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
@@ -159,6 +160,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0740-delete-and-earn](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0923-super-egg-drop](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [0972-knight-dialer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0972-knight-dialer) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
@@ -207,6 +209,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0304-range-sum-query-2d-immutable](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Binary Search
