@@ -55,6 +55,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0560-subarray-sum-equals-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0729-my-calendar-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -222,6 +223,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | ------- |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0729-my-calendar-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0923-super-egg-drop](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0923-super-egg-drop) |
 ## Divide and Conquer
 |  |
@@ -238,6 +240,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -248,6 +251,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 ## Simulation
 |  |
 | ------- |
@@ -338,6 +342,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0304-range-sum-query-2d-immutable](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0729-my-calendar-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 ## Randomized
 |  |
 | ------- |
