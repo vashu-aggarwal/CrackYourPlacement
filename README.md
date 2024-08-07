@@ -31,6 +31,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0174-dungeon-game) |
@@ -172,6 +173,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0011-container-with-most-water](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Stack
