@@ -65,6 +65,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0739-daily-temperatures](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0085-maximal-rectangle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0739-daily-temperatures) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Sliding Window
 |  |
 | ------- |
@@ -414,6 +417,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Doubly-Linked List
 |  |
 | ------- |
