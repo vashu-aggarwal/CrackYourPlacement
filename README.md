@@ -112,6 +112,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Matrix
 |  |
@@ -142,6 +143,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1019-squares-of-a-sorted-array) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Dynamic Programming
 |  |
@@ -183,6 +185,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0134-gas-station](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Stack
 |  |
@@ -301,6 +304,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0874-backspace-string-compare](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Backtracking
 |  |
 | ------- |
