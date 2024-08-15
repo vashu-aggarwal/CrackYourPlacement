@@ -44,6 +44,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0304-range-sum-query-2d-immutable](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
@@ -107,6 +108,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0146-lru-cache](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
@@ -141,6 +143,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0088-merge-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
@@ -253,6 +256,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0023-merge-k-sorted-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -286,6 +290,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 ## String
 |  |
@@ -335,6 +340,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [1622-max-value-of-equation](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
@@ -476,4 +482,12 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0856-consecutive-numbers-sum) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
