@@ -46,6 +46,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0312-burst-balloons](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0403-frog-jump](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
@@ -136,6 +137,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0221-maximal-square](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sorting
 |  |
@@ -148,6 +150,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
@@ -252,6 +255,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0729-my-calendar-i) |
@@ -350,6 +354,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0215-kth-largest-element-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [1622-max-value-of-equation](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
