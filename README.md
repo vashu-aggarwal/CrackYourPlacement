@@ -119,6 +119,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0560-subarray-sum-equals-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0740-delete-and-earn) |
+| [0778-reorganize-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -155,6 +156,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0778-reorganize-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1019-squares-of-a-sorted-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -203,6 +205,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0435-non-overlapping-intervals](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -303,6 +306,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0778-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -328,6 +332,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0474-ones-and-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0730-count-different-palindromic-subsequences](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0730-count-different-palindromic-subsequences) |
+| [0778-reorganize-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -356,6 +361,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1622-max-value-of-equation](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Monotonic Queue
