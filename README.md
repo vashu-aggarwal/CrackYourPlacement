@@ -63,6 +63,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0729-my-calendar-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0740-delete-and-earn) |
+| [1014-k-closest-points-to-origin](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1019-squares-of-a-sorted-array) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
@@ -158,6 +159,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0778-reorganize-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1019-squares-of-a-sorted-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -276,6 +278,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0215-kth-largest-element-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [1014-k-closest-points-to-origin](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -366,6 +369,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1622-max-value-of-equation](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Monotonic Queue
@@ -391,6 +395,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0628-maximum-product-of-three-numbers](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0856-consecutive-numbers-sum) |
 | [0923-super-egg-drop](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0923-super-egg-drop) |
+| [1014-k-closest-points-to-origin](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
@@ -517,4 +522,9 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
