@@ -425,6 +425,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0130-surrounded-regions](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0341-flatten-nested-list-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
@@ -488,6 +489,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -527,4 +529,8 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
