@@ -419,6 +419,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -427,6 +428,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
@@ -493,6 +495,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -512,6 +515,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Enumeration
 |  |
@@ -537,4 +541,5 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | ------- |
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
