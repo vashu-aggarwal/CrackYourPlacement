@@ -336,6 +336,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0151-reverse-words-in-a-string](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -354,6 +355,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0022-generate-parentheses](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## Queue
 |  |
 | ------- |
@@ -429,6 +431,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0130-surrounded-regions](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
@@ -501,6 +504,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
@@ -551,6 +555,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
