@@ -28,6 +28,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0084-largest-rectangle-in-histogram](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0130-surrounded-regions) |
@@ -273,6 +274,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
@@ -495,6 +497,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
@@ -543,7 +546,12 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
