@@ -174,6 +174,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0070-climbing-stairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -356,6 +357,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0022-generate-parentheses](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## Queue
 |  |
@@ -510,6 +512,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -567,6 +570,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -582,6 +586,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
