@@ -432,6 +432,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0112-path-sum) |
@@ -517,6 +518,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -576,6 +578,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -593,6 +596,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
