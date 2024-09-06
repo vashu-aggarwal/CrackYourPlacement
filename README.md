@@ -506,6 +506,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1765-merge-in-between-linked-lists](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1765-merge-in-between-linked-lists) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Doubly-Linked List
 |  |
