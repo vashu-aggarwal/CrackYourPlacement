@@ -436,6 +436,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0100-same-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
@@ -454,6 +455,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0100-same-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
@@ -494,6 +496,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0143-reorder-list) |
@@ -523,6 +526,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -583,6 +587,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0101-symmetric-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
