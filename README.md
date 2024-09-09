@@ -449,6 +449,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -465,6 +466,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0322-coin-change](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Union Find
@@ -540,6 +542,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Iterator
 |  |
@@ -600,6 +603,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0543-diameter-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
