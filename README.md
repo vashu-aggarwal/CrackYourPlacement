@@ -78,6 +78,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [1019-squares-of-a-sorted-array](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1019-squares-of-a-sorted-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Stack
 |  |
 | ------- |
@@ -275,6 +278,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0923-super-egg-drop](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0923-super-egg-drop) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Divide and Conquer
 |  |
 | ------- |
