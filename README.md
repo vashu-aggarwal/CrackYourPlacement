@@ -456,6 +456,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0662-maximum-width-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0820-find-eventual-safe-states](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -472,6 +473,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0617-merge-two-binary-trees](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Union Find
 |  |
@@ -618,4 +620,12 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 | [0173-binary-search-tree-iterator](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
