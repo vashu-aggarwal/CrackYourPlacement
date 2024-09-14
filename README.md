@@ -328,6 +328,7 @@ Duration: 45-60 Days Focus: Data Structures and Algorithms Goal: Improve problem
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vashu-aggarwal/CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
